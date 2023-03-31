@@ -1,0 +1,41 @@
+nav div ul li a:hover{
+    color: cadetblue;
+    background-color: darkolivegreen;
+  }
+  .nav{
+    margin: 3px;
+    margin-top: 10px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding: 2px 4px;
+    height: 30px;
+    font-size: 17px;
+    background-color: ghostwhite;
+    text-decoration: none; 
+    text-align: center;
+    box-shadow: 0 0 3px 0 #00000066, 0 0 2px 0 #0000004d;
+  }
+  #color{
+    color: cornflowerblue;
+  }
+  #nav .subnav{
+    display: none;
+    position: absolute;
+    background-color: #fff;
+}
+#nav li:hover .subnav{
+    display: block;
+}
+#nav .subnav a{
+    color: #000;
+    padding: 0 16px;
+    line-height: 38px;
+}
+
+.sp{
+  text-align: center;
+  width: 300px;
+}
+.footer{
+  width: 100%;
+}

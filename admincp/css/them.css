@@ -1,0 +1,28 @@
+/* h2{
+    text-align: center;
+   
+} */
+
+.vien{
+    border: 2px solid steelblue;
+    /* padding-bottom: 5px; */
+    background-color: #f8f9fa;
+}
+.table{
+    text-align: center;
+    text-decoration: none;
+}
+legend{
+  text-align: center;
+    color: cornflowerblue; 
+}
+/* fieldset{
+  background-color: #f8f9fa;
+} */
+.main{
+  margin-top: 50px;
+  border: 2px solid steelblue;
+}
+thead{
+  background-color: cornflowerblue;
+}
